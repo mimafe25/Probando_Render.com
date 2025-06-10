@@ -1,0 +1,4 @@
+#Estos son los paquetes que se requieren instalar
+pandas
+scipy
+streamlit
